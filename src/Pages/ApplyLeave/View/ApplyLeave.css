@@ -1,0 +1,8 @@
+.main-calender-container-datejournal .calendar-journal-container-2 {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  height: 100%;
+  background: var(--bgColor);
+  padding: 2% 0;
+}
